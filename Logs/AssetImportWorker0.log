@@ -1915,3 +1915,810 @@ Start importing Assets/SubstanceAssets/LittleGamesPack/Prefabs/Individual Pieces
  -> (artifact id: '589aa1ab63ab10c381f7f3b6a8af72ff') in 0.021474 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 11465.550138 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Materials/ChessPieces.mat
+  artifactKey: Guid(840105e70daac554cb395e67b214332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Materials/ChessPieces.mat using Guid(840105e70daac554cb395e67b214332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7868d0347ed2d3dcbe2233a20b6a842d') in 0.070335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 1.877700 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/Stylized_Brick_01.mat
+  artifactKey: Guid(82cead14871ca7f46b901b1f422ef471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/Stylized_Brick_01.mat using Guid(82cead14871ca7f46b901b1f422ef471) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '959addbd0b6cf525aae00f5139e27623') in 0.238105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 130.992899 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Stone_01/Stone_Tile_01_ambientocclusion.png
+  artifactKey: Guid(0e7ce0c4f0c2b9641803085b7b6ebe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Stone_01/Stone_Tile_01_ambientocclusion.png using Guid(0e7ce0c4f0c2b9641803085b7b6ebe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3d6d9dae8d1c40e1d82d0e06dd0290e0') in 0.014166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Stone_01/Stone_Tile_01_normal.png
+  artifactKey: Guid(632d0bbf3f88d944eb49e0fcc9b08e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Stone_01/Stone_Tile_01_normal.png using Guid(632d0bbf3f88d944eb49e0fcc9b08e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5e93c0eb81d8e54ad7fb480cf6f30d37') in 0.031016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.895392 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_ambientocclusion.png
+  artifactKey: Guid(71e84546460eabc4794a6d546ccf549e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_ambientocclusion.png using Guid(71e84546460eabc4794a6d546ccf549e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '0e48deb27f63111a34996337557845bf') in 0.009619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.359095 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_height.png
+  artifactKey: Guid(7ef8a90a84fb6ed44b6486538a30efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_height.png using Guid(7ef8a90a84fb6ed44b6486538a30efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '556909e729eb8a94a8fabf14005af0dd') in 0.006027 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.571874 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_normal.png
+  artifactKey: Guid(9d161b324518f544bb626cea7395f709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Wood_Surface_01/Wood_Planks_normal.png using Guid(9d161b324518f544bb626cea7395f709) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '96d0e642226b5d08289d6e11031dd20c') in 0.006927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 383.049282 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_normal.png
+  artifactKey: Guid(d5e7547688ce04c408d263f9a5eaf74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_normal.png using Guid(d5e7547688ce04c408d263f9a5eaf74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'e276729740a5e24d148bb5d5b09379d2') in 0.015815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.024704 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_basecolor.png
+  artifactKey: Guid(a04840c0405160e4a91adc5737b88119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_basecolor.png using Guid(a04840c0405160e4a91adc5737b88119) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7a1475a48c25e7a83ceb3efa45d57d9c') in 0.008194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.010403 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_ambientocclusion.png
+  artifactKey: Guid(c9c8b6f67bf99d64d8bfcf23fa947d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Brick_01/leaf_ambientocclusion.png using Guid(c9c8b6f67bf99d64d8bfcf23fa947d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '4b172e45924395be8c6f6c5601554382') in 0.006499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.015186 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Ground_Tile_01/Ground_01_normal.png
+  artifactKey: Guid(e54ae3b3605ffb8418b6b7cab0e8c350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Ground_Tile_01/Ground_01_normal.png using Guid(e54ae3b3605ffb8418b6b7cab0e8c350) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c2dce0f66739e0380325a71b7536438a') in 0.007111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.012658 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Ground_Tile_01/Ground_01_basecolor.png
+  artifactKey: Guid(85389ccd5c78ce8439961cb4d1434486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Ground_Tile_01/Ground_01_basecolor.png using Guid(85389ccd5c78ce8439961cb4d1434486) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '2dad5fea97bb91c9d34da8da52ebb0e5') in 0.006059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.022766 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Roughness.png
+  artifactKey: Guid(e672ab8d2026d8840a87cf22585ddc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Roughness.png using Guid(e672ab8d2026d8840a87cf22585ddc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7f8ecb81c3985b70dfcf69c863542700') in 0.009625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.021302 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Mixed_AO.png
+  artifactKey: Guid(de081bbef34671741ac786e6cc4a51d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Mixed_AO.png using Guid(de081bbef34671741ac786e6cc4a51d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '814183a1a12189f2f895fb541c7aa1b8') in 0.012525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.039703 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Height.png
+  artifactKey: Guid(14a1d5424cea61f4da549fe97e99e456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Height.png using Guid(14a1d5424cea61f4da549fe97e99e456) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ca4e4cce39f2a678be87a1f16e8ccaf2') in 0.012744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.047060 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Base_color.png
+  artifactKey: Guid(dc5957f23a73e0945b24147f3c4d999e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/GamePieces/GamePieces_Base_color.png using Guid(dc5957f23a73e0945b24147f3c4d999e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '725e0061695fea0e63d5cc4b83f22fcb') in 0.010103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.072565 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_roughness.png
+  artifactKey: Guid(d1a4f35324b539c45b4fb61242fb3123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_roughness.png using Guid(d1a4f35324b539c45b4fb61242fb3123) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5bc0242b1587abb07f445d0312c80d5f') in 0.004666 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.162344 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_height.png
+  artifactKey: Guid(0c7c3b592f91c054cb060dc5ea7c7800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_height.png using Guid(0c7c3b592f91c054cb060dc5ea7c7800) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'd87f4023ea8ab4b36199349d7135e2c5') in 0.006453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.777357 seconds.
+  path: Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_ambientocclusion.png
+  artifactKey: Guid(4c5a8669caeb13c45a5a636f98ca3059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Texture Pack/Stylized Texture Pack 2k .png/Stylized_Tiles_02/CubbleStone_ArcTiles_Custom_ambientocclusion.png using Guid(4c5a8669caeb13c45a5a636f98ca3059) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '37d66a3c5ff734ab5a9a3df4861fc025') in 0.007546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.761212 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Normal_OpenGL.png
+  artifactKey: Guid(b363b94d18d10964aa96eedd40c1ac7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Normal_OpenGL.png using Guid(b363b94d18d10964aa96eedd40c1ac7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f5832b921d99fc86fcd6fef3f15ebde6') in 0.020946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.095932 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Metallic.png
+  artifactKey: Guid(ec3a1514ef7a2c44db6040c45ba1fb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Metallic.png using Guid(ec3a1514ef7a2c44db6040c45ba1fb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ba3a8cce8c68fed88aa44b6a12f144b2') in 0.012151 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.178776 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Base_color.png
+  artifactKey: Guid(c7e0c22f4fc8c1f419f0b6d10f170075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/ChessPieces/ChessPieces_Base_color.png using Guid(c7e0c22f4fc8c1f419f0b6d10f170075) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5b55ed4f77031b020477543e54b61282') in 0.015547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.282540 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Roughness.png
+  artifactKey: Guid(98ef32987ff927449bfdc4953c2fa4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Roughness.png using Guid(98ef32987ff927449bfdc4953c2fa4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '2abdc4b0aa9e2f1daa91a1cd21e81fb6') in 0.012986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.388506 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Mixed_AO.png
+  artifactKey: Guid(3e2b117b9c5c2e34db6f955ebc4c79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Mixed_AO.png using Guid(3e2b117b9c5c2e34db6f955ebc4c79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '9fe5c5fbfd873ac7aca8eb5d5305c1ae') in 0.016705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.821691 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Height.png
+  artifactKey: Guid(b6a6a89cbd8ae514d96268aaac2e49d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Height.png using Guid(b6a6a89cbd8ae514d96268aaac2e49d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '71ab94edcf2f3be29b65bc9986da8f26') in 0.018706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.178987 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Base_color.png
+  artifactKey: Guid(973f3017245c3f5478b70f72d5ec67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Textures/CardsAndTables/CardsAndTables_Base_color.png using Guid(973f3017245c3f5478b70f72d5ec67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '19d331922d543b2074bc31096f1e3e16') in 0.015246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.189 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.538 seconds
+Domain Reload Profiling: 727ms
+	BeginReloadAssembly (74ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (83ms)
+		LoadAssemblies (102ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (538ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (167ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (132ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3240 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 38 unused Assets / (0.6 MB). Loaded Objects now: 3758.
+Memory consumption went from 144.2 MB to 143.6 MB.
+Total: 2.096375 ms (FindLiveObjects: 0.154666 ms CreateObjectMapping: 0.029209 ms MarkObjects: 1.684083 ms  DeleteObjects: 0.227583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 372.617899 seconds.
+  path: Assets/Materials/Materials/Mur-dimages-LED-Casino-Barriere-Cavalaire-juillet-2022.mat
+  artifactKey: Guid(d7b1e4261bc1c468fa64eafed053941f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/Mur-dimages-LED-Casino-Barriere-Cavalaire-juillet-2022.mat using Guid(d7b1e4261bc1c468fa64eafed053941f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f83a1778bfa4268eb68bf3c2a19dfdbf') in 0.055723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.185 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.566 seconds
+Domain Reload Profiling: 750ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (9ms)
+	LoadAllAssembliesAndSetupDomain (86ms)
+		LoadAssemblies (102ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (3ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (566ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (152ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (19ms)
+			ProcessInitializeOnLoadAttributes (120ms)
+			ProcessInitializeOnLoadMethodAttributes (7ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3244 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 38 unused Assets / (0.6 MB). Loaded Objects now: 3765.
+Memory consumption went from 150.2 MB to 149.6 MB.
+Total: 1.829791 ms (FindLiveObjects: 0.104500 ms CreateObjectMapping: 0.028875 ms MarkObjects: 1.505333 ms  DeleteObjects: 0.190625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 161.309895 seconds.
+  path: Assets/EasyStart Third Person Controller/Tutorial.pdf
+  artifactKey: Guid(776839bb472c8b14e8314330fdc3d2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyStart Third Person Controller/Tutorial.pdf using Guid(776839bb472c8b14e8314330fdc3d2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '509ade7c794d9413e89d83ec5836c7a0') in 0.008552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.919913 seconds.
+  path: Assets/EasyStart Third Person Controller/Tutorial_portuguese.pdf
+  artifactKey: Guid(7ea9a83d320dda346916d83d9c649441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyStart Third Person Controller/Tutorial_portuguese.pdf using Guid(7ea9a83d320dda346916d83d9c649441) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '24d0829cc53e9cd33932f40f1d2d2475') in 0.000415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.212 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.547 seconds
+Domain Reload Profiling: 759ms
+	BeginReloadAssembly (81ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (100ms)
+		LoadAssemblies (110ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (547ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (170ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (135ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 77 unused Assets / (4.1 MB). Loaded Objects now: 3862.
+Memory consumption went from 168.5 MB to 164.4 MB.
+Total: 5.387625 ms (FindLiveObjects: 0.104916 ms CreateObjectMapping: 0.030209 ms MarkObjects: 4.546666 ms  DeleteObjects: 0.705292 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.205 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.335 seconds
+Domain Reload Profiling: 541ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (9ms)
+	LoadAllAssembliesAndSetupDomain (106ms)
+		LoadAssemblies (87ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (43ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (30ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (335ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (196ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (11ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3378 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 77 unused Assets / (4.1 MB). Loaded Objects now: 3865.
+Memory consumption went from 174.1 MB to 169.9 MB.
+Total: 3.085083 ms (FindLiveObjects: 0.100000 ms CreateObjectMapping: 0.029041 ms MarkObjects: 1.837250 ms  DeleteObjects: 1.118375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.173 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.305 seconds
+Domain Reload Profiling: 478ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (9ms)
+	LoadAllAssembliesAndSetupDomain (74ms)
+		LoadAssemblies (88ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (3ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (305ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (162ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3388 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 77 unused Assets / (4.1 MB). Loaded Objects now: 3878.
+Memory consumption went from 179.5 MB to 175.3 MB.
+Total: 4.847042 ms (FindLiveObjects: 0.096917 ms CreateObjectMapping: 0.032292 ms MarkObjects: 4.059083 ms  DeleteObjects: 0.658125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 121.797445 seconds.
+  path: Assets/EasyStart Third Person Controller/Prefabs/ThirdPersonController.prefab
+  artifactKey: Guid(268bbd229edfdba45a4d45903e472716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyStart Third Person Controller/Prefabs/ThirdPersonController.prefab using Guid(268bbd229edfdba45a4d45903e472716) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '16315553dc0ffe7473203e03eb3725de') in 0.154408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 418
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Prefabs/Individual Pieces/Chess/WhiteQueen.prefab
+  artifactKey: Guid(9003be27e8deb5e4babf5477ec097ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Prefabs/Individual Pieces/Chess/WhiteQueen.prefab using Guid(9003be27e8deb5e4babf5477ec097ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '67410823c2d9a25669013c4eb4f49fbc') in 0.048270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/SubstanceAssets/LittleGamesPack/Prefabs/Individual Pieces/Chess/WhitePawn.prefab
+  artifactKey: Guid(ec00beda5f90bc84d93bdc1d4ab2fbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SubstanceAssets/LittleGamesPack/Prefabs/Individual Pieces/Chess/WhitePawn.prefab using Guid(ec00beda5f90bc84d93bdc1d4ab2fbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '064a93500a8b2291db7303218b227d59') in 0.037839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 2.301313 seconds.
+  path: Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Bold SDF.asset
+  artifactKey: Guid(59ee34472c5892a4196858080cc2141e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Bold SDF.asset using Guid(59ee34472c5892a4196858080cc2141e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3bf3d0d3be83a9b8a131c834aae086d7') in 0.127295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-BOLD SDF.asset
+  artifactKey: Guid(debe894442e153d479c7f9d07cce1276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-BOLD SDF.asset using Guid(debe894442e153d479c7f9d07cce1276) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '6a669977986a1b5fd5721f0bd831d0ed') in 0.031396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-LIGHT SDF.asset
+  artifactKey: Guid(0b65c99348f068b49bef5db0bb76a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-LIGHT SDF.asset using Guid(0b65c99348f068b49bef5db0bb76a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '89f0d05ae05ca3f33afe168b94db4af4') in 0.019183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.184 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.603 seconds
+Domain Reload Profiling: 788ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (9ms)
+	LoadAllAssembliesAndSetupDomain (87ms)
+		LoadAssemblies (105ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (604ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (186ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (149ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3387 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (4.1 MB). Loaded Objects now: 3883.
+Memory consumption went from 187.1 MB to 183.0 MB.
+Total: 2.945792 ms (FindLiveObjects: 0.106541 ms CreateObjectMapping: 0.032084 ms MarkObjects: 1.831041 ms  DeleteObjects: 0.975792 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 133.586085 seconds.
+  path: Assets/SlimUI/Modern Menu 1/Graphics/Icons/Arrow 128px.png
+  artifactKey: Guid(603eabcd71ec55e41be090a50f8b646e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlimUI/Modern Menu 1/Graphics/Icons/Arrow 128px.png using Guid(603eabcd71ec55e41be090a50f8b646e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '43b14e7db65443f08390ac562bbce0a7') in 0.033421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17dac7000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.165 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.310 seconds
+Domain Reload Profiling: 475ms
+	BeginReloadAssembly (65ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (9ms)
+	LoadAllAssembliesAndSetupDomain (69ms)
+		LoadAssemblies (85ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (3ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (310ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (171ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (21ms)
+			ProcessInitializeOnLoadAttributes (136ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3386 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (4.1 MB). Loaded Objects now: 3886.
+Memory consumption went from 192.6 MB to 188.5 MB.
+Total: 2.488250 ms (FindLiveObjects: 0.116166 ms CreateObjectMapping: 0.028875 ms MarkObjects: 1.644917 ms  DeleteObjects: 0.697917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
