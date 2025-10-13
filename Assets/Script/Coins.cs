@@ -20,15 +20,4 @@ public class Coins : MonoBehaviour
         transform.position = new Vector3(startPosition.x, newY, startPosition.z);
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-
-        if (other.CompareTag("Player"))
-        {
-            // ajouter points, sons, etc.
-
-         
-            Destroy(gameObject);
-        }
-    }
 }

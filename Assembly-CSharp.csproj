@@ -76,6 +76,7 @@
     <Compile Include="Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUI.cs" />
     <Compile Include="Assets/Supercyan Character Pack Free Sample/Scripts/AccessoryWearLogic.cs" />
     <Compile Include="Assets/EasyStart Third Person Controller/Scripts/ThirdPersonController.cs" />
+    <Compile Include="Assets/Script/MainMenu.cs" />
     <Compile Include="Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUIData.cs" />
     <Compile Include="Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedThirdPersonController.cs" />
     <Compile Include="Assets/SlimUI/Modern Menu 1/Scripts/Audio/CheckMusicVolume.cs" />
