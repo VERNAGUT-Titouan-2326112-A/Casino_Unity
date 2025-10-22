@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public Slider healthBar;  
+    public Slider healthBar;
     public float maxHealth = 100f;
     private float currentHealth;
 
@@ -14,11 +14,14 @@ public class PlayerHealth : MonoBehaviour
         healthBar.value = currentHealth;
     }
 
-    void OnCollisionEnter(Collision collision)
+    void OnControllerColliderHit(ControllerColliderHit hit)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        Debug.Log("Collision avec : " + hit.gameObject.name + " (Tag: " + hit.gameObject.tag + ")");
+
+        if (hit.gameObject.CompareTag("Water"))
         {
-            TakeDamage(10);
+            Debug.Log(">>> Le joueur est tombé dans l’eau !");
+            TakeDamage(20);
         }
     }
 
